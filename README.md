@@ -1,7 +1,7 @@
 # HUST-MCU-Homework
 华科单片机大作业
 # 说明
-我是华科21级的学生BirB。为应对微机实验的大作业，我亲自写了这一套程序。最后效果我个人还是比较满意的（我可能会在B站专门出一期视频），感觉努力还是没有白费。如果后来的学弟学妹还是用的这一套板子，也许可以借鉴我的程序，做一些升级改造。但是，**请不要直接抄袭**！
+我是华科21级的学生BirB。为应对微机实验的大作业，我亲自写了这一套程序。最后效果我个人还是比较满意的（参见[B站视频](https://www.bilibili.com/video/BV1nV4y1m7ez/?vd_source=a5f821ed074053189bebbb4083b1cc56#reply869720587)），感觉努力还是没有白费。如果后来的学弟学妹还是用的这一套板子，也许可以借鉴我的程序，做一些升级改造。但是，**请不要直接抄袭**！
 如果你想使用这一套程序，请你：
 - 检查板子是否是`板子.pdf`文件里的那种板子
 - 检查要求是否和`要求.pdf`文件里的要求有很大出入
@@ -10,7 +10,7 @@
 - 正确配置Keil（你们老师发的PDF里应该有专门教这个的）
 - 将它内化于心，然后适当修改程序
 
-I am BirB, a student from Huazhong University of Science and Technology 21st grade. To cope with the final project of Microcomputer Experiment, I personally wrote this set of programs. Overall, I am quite satisfied with the final result (I may release a video on Bilibili), and I feel that my efforts have paid off. If future students still use that circuit board, perhaps they can refer to my program and make some upgrades and modifications. However, please do not copy it directly!
+I am BirB, a student from Huazhong University of Science and Technology. To cope with the final project of Microcomputer Experiment, I personally wrote this set of programs. Overall, I am quite satisfied with the final result (you may refer to this [video](https://www.bilibili.com/video/BV1nV4y1m7ez/?vd_source=a5f821ed074053189bebbb4083b1cc56#reply869720587)), and I feel that my efforts have paid off. If in the future some students still use that circuit board, perhaps they can refer to my program and make some upgrades and modifications. However, **please do not copy it directly**!
 
 If you want to use this set of programs, please:
 
